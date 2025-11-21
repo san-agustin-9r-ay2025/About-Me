@@ -1,0 +1,20 @@
+body {
+    background-image: url('texture3.jpg');
+    width: 100%;
+}
+
+.hero-image {
+    background-image: url('texture3.jpg');
+    width: 100%;
+
+}
+
+.box {
+    border: 10px dashed #44799a;
+    border-radius: 29px 29px 29px 29px;
+    -webkit-border-radius: 29px 29px 29px 29px;
+    -moz-border-radius: 29px 29px 29px 29px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
